@@ -27,6 +27,10 @@ body.dark .login_card {
     background-color: rgba(64, 63, 62, 0.2)
 }
 
+body.dark .login_card .login_card__info-data input {
+    color: #eee;
+}
+
 a {
     cursor: pointer;
 }
